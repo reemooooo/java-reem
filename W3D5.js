@@ -14,7 +14,7 @@ function countNumOfStrings(array){
            count++;
 		}
 	}
-	return count
+	return count;
 }
 
 /*
